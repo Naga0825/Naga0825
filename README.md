@@ -1,25 +1,38 @@
+# Hi 👋, I'm **Nagalakshmi R**
 
-# Hi there 👋, I'm Nagalakshmi R
+### 💻 Software Engineer | Java  | Spring Boot | Hibernate | MySQL 
 
-💻 “Aspiring Software Engineer | Java Backend Developer | Spring Boot | Web Development” 
+B.Tech Information Technology graduate passionate about designing and developing scalable backend applications using **Java, Spring Boot, Hibernate, REST APIs, and MySQL**. I enjoy solving real-world problems through clean, maintainable code and continuously improving my **Data Structures & Algorithms** and backend development skills.
 
-I am a final‑year IT student passionate about backend development. Through internships and projects, I’ve gained hands‑on experience in Java, Spring Boot, Hibernate, and SQL. My focus is on building scalable applications and solving problems with clean code. Currently practicing Data Structures & Algorithms to strengthen my problem‑solving skills and prepare for MNC coding interviews.
+## 🛠️ Tech Stack
 
-🌱 Skilled in
-- HTML5
-- CSS3
-- JavaScript
-- Java
-- Spring Framework
-- Spring Boot
-- MySQL
-- REST APIS
-- OOPS
-- Data Structures & Algorithms
+* **Languages:** Java, SQL, JavaScript
+* **Backend:** Spring Framework, Spring Boot, Spring MVC, Hibernate, JDBC, Servlets, REST APIs
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Database:** MySQL
+* **Tools:** Git, GitHub, VS Code
+* **Core CS:** OOP, Data Structures & Algorithms, DBMS
 
-🚀 Projects
-- Blood Bank Management System — Full‑stack web app using Java, Spring Boot, Hibernate, and MySQL to manage donor records, requests, and inventory with real‑time admin dashboard.
+## 🚀 Featured Project
 
-📫 Connect with me
-- LinkedIn: www.linkedin.com/in/nagalakshmi-r-a51b192b9
-- Email: naganandhini475@gmail.com
+### Blood Bank Management System
+
+Built a full-stack web application using **Java, Spring Boot, Hibernate, MySQL, HTML, CSS, and JavaScript** to manage donor records, blood inventory, and donation requests through a responsive admin dashboard.
+
+## 🌱 Currently Learning
+
+* Advanced Spring Boot
+* Microservices
+* Spring Security
+* Data Structures & Algorithms
+* SQL Optimization
+
+## 🏆 Highlights
+
+* 🥇 Top 5 Finalist – **TechXplore'25** National-Level Project Competition
+* 🏅 Recognized at **GenNext Vision 2025** Project Fest
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: [www.linkedin.com/in/nagalakshmi-raja-a51b192b9](http://www.linkedin.com/in/nagalakshmi-raja-a51b192b9)
+* 📧 Email: **[naganandhini475@gmail.com](mailto:naganandhini475@gmail.com)**
